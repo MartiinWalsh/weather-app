@@ -8,7 +8,7 @@ This is a weather app inspired by the  designs made by [Olia Gozha](https://drib
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-## The following will be learned through developing this applicaton
+## The following was learned through developing this application
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
@@ -22,4 +22,5 @@ This is a weather app inspired by the  designs made by [Olia Gozha](https://drib
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
