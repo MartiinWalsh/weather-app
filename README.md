@@ -2,6 +2,7 @@
 
 >This is a companion project carried out as part of The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+
 ## The Application
 
 This is a weather app inspired by the  designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).

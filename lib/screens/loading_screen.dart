@@ -4,7 +4,7 @@ import 'package:clima/services/networking.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
-String _API = '498330140877fcd5c7583edb1cd2d73f';
+String _API = '';
 
 class LoadingScreen extends StatefulWidget {
   @override
